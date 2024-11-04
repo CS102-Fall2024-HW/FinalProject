@@ -38,3 +38,4 @@ Please create a clone of this page using the github classrooms link: [https://cl
 
 If you work in a pair, you will get 2 bonus points (out of 100).
 
+You may also choose a project of your choice, but you must write a proposal on this repo and get it approved. Your project should follow the same outline as above unless it is approved for you to do something else.
